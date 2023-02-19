@@ -21,13 +21,13 @@ int main(void)
 	{
 	if ((a != b) != c)
 	{
-		putchar(a);
-		putchar(b);
-		putchar(c);
-		if (a == '7' && b == '8')
-				continue;
-				putchar(',');
-				putchar(' ');
+	putchar(a);
+	putchar(b);
+	putchar(c);
+	if (a == '7' && b == '8')
+	continue;
+	putchar(',');
+	putchar(' ');
 	}
 	}
 	}
