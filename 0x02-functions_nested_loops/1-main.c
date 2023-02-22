@@ -7,6 +7,7 @@
 
 int main(void)
 {
+	/* call function print alpha */
 	print_alphabet();
 	return (0);
 }

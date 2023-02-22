@@ -7,6 +7,8 @@
 
 void print_alphabet(void)
 {
+	/* code to print alphabets */
+
 	char c;
 
 	for (c = 'a'; c <= 'z'; c++)
